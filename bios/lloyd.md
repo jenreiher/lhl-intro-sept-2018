@@ -1,13 +1,13 @@
 # Jen Reiher
-![Picture of Jen](https://www.canadalearningcode.ca/wp-content/uploads/2017/07/jen.jpg)
+![Picture of Lloyd](https://scontent.fyka1-1.fna.fbcdn.net/v/t1.0-9/27973539_10154901602641887_8522771271386037290_n.jpg?_nc_cat=101&oh=615c7abc8711c13352db3d511be3db96&oe=5C20ADE2)
 
 ## I was born in...
-Victoria
+Bella Bella
 
 ## My top three favourite foods are...
-* Tuna sashimi
+* Spider Rolls
 * Hamburgers
-* Hot pot
+* Neapolitan Pizza
 
 ## One quirky fact about myself is...
-I have a hat that I spun and knit from samoyed dog fur
+I was born in a Canadian Idiginous Town on the west coast of BC.
