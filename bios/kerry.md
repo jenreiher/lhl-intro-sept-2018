@@ -1,13 +1,13 @@
-# Jen Reiher
-![Picture of Jen](https://www.canadalearningcode.ca/wp-content/uploads/2017/07/jen.jpg)
+# Kerry Cameron
+
 
 ## I was born in...
-Victoria
+Duncan
 
 ## My top three favourite foods are...
-* Tuna sashimi
-* Hamburgers
-* Hot pot
+* Wild Salmon
+* Avocado
+* Deconstructed tiramasu from Savuer
 
 ## One quirky fact about myself is...
-I have a hat that I spun and knit from samoyed dog fur
+I try to talk to sea lions when I see them in the Ocean
