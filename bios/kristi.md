@@ -1,5 +1,5 @@
 # Kristi F Mader
-![Picture of Kristi] (https://www.readytorentbc.org/wp-content/uploads/2015/10/KFM.jpg)
+![Picture of Kristi](https://www.readytorentbc.org/wp-content/uploads/2015/10/KFM.jpg)
 
 ## I was born in...
 Vancouver
