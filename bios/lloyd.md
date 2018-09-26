@@ -10,4 +10,4 @@ Bella Bella
 * Neapolitan Pizza
 
 ## One quirky fact about myself is...
-I was born in a Canadian Idiginous Town on the west coast of BC.
+I was born in a Canadian indigenous Town on the west coast of BC.
