@@ -1,13 +1,13 @@
-# Jen Reiher
-![Picture of Jen](https://www.canadalearningcode.ca/wp-content/uploads/2017/07/jen.jpg)
+# Lindsay Macfarlane
+![Picture of Lindsay](https://avatars3.githubusercontent.com/u/26070459?s=88&v=4)
 
 ## I was born in...
 Victoria
 
 ## My top three favourite foods are...
-* Tuna sashimi
-* Hamburgers
-* Hot pot
+* Sushi
+* Pasta
+* Wine
 
 ## One quirky fact about myself is...
-I have a hat that I spun and knit from samoyed dog fur
+I was once a ski instructure, but never actually taught a lesson!
