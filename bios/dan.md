@@ -1,5 +1,5 @@
 # Dan Clayton
-![Picture of Dan](https://www.facebook.com/photo.php?fbid=10155443341465333&l=54857258d0)
+![Picture of Dan](https://scontent.fyka1-1.fna.fbcdn.net/v/t1.0-9/11182165_10155443341465333_7596352071319673416_n.jpg?_nc_cat=104&oh=4dc5b565a374bd2cb9a1ecd4f0a17f35&oe=5C5C5933)
 
 ## I was born in...
 Grande Prairie, Alberta
