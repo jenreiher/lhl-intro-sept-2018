@@ -1,5 +1,5 @@
 # Lindsay Macfarlane
-![Picture of Jen](https://www.canadalearningcode.ca/wp-content/uploads/2017/07/jen.jpg)
+![Picture of Lindsay](https://avatars3.githubusercontent.com/u/26070459?s=88&v=4)
 
 ## I was born in...
 Victoria
@@ -10,4 +10,4 @@ Victoria
 * Wine
 
 ## One quirky fact about myself is...
-I like to ski
+I was once a ski instructure, but never actually taught a lesson!
