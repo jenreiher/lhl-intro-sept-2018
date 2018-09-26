@@ -1,13 +1,13 @@
-# Jen Reiher
-![Picture of Jen](https://www.canadalearningcode.ca/wp-content/uploads/2017/07/jen.jpg)
+# Dan Clayton
+![Picture of Dan](https://scontent.fyka1-1.fna.fbcdn.net/v/t1.0-9/11182165_10155443341465333_7596352071319673416_n.jpg?_nc_cat=104&oh=4dc5b565a374bd2cb9a1ecd4f0a17f35&oe=5C5C5933)
 
 ## I was born in...
-Victoria
+Grande Prairie, Alberta
 
 ## My top three favourite foods are...
 * Tuna sashimi
-* Hamburgers
-* Hot pot
+* Ice Cream
+* Jalapeño Chips
 
 ## One quirky fact about myself is...
-I have a hat that I spun and knit from samoyed dog fur
+I've never been stung by a bee
