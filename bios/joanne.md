@@ -2,12 +2,12 @@
 ![Picture of Jen](https://www.canadalearningcode.ca/wp-content/uploads/2017/07/jen.jpg)
 
 ## I was born in...
-Victoria
+England
 
 ## My top three favourite foods are...
-* Tuna sashimi
-* Hamburgers
-* Hot pot
+* Curry
+* Steak
+* Tuna Burgers
 
 ## One quirky fact about myself is...
-I have a hat that I spun and knit from samoyed dog fur
+I am a mom gamer
