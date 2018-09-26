@@ -5,8 +5,8 @@ India :O
 
 ## My top three favourite foods are...
 * Pizza
-* Persian Food (but I'm biased)
-* Korean/Japanese Food
+* Persian Food :)
+* Korean/Japnese Food
 
 ## One quirky fact about myself is...
-If im concentrating hard while working I find I end up talking to myself .. :O
+I can get very obsessive with things that I like. I've watched every episode of Rick and Morty atleast 15 times
