@@ -7,7 +7,7 @@ Victoria
 ## My top three favourite foods are...
 * Tuna sashimi
 * Hamburgers
-* Hot pot
+* Eggplant
 
 ## One quirky fact about myself is...
 I have a hat that I spun and knit from samoyed dog fur
