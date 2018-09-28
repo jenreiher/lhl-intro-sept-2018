@@ -15,3 +15,19 @@
 * __Cloud9__: our cloud-based IDE of choice for this course.
 * __Boilerplate__: a basic set up to work with for any particular web app framework (e.g. Sinatra).
 * __Stack__: the different technologies and languages to a working web application. Different companies have different "stacks".
+
+## W1D2
+* __Tags or Elements__: the different identifiers for HTML to help the web browser know how to interact with them.
+* __HTML__: hyper text markup language, the basic structure of web pages.
+* __Markup__: another word for html. 
+* __Attributes__: Extra invisible mark up that we can add to text to tell the browser how to behave when the user interacts with it, such as the 'href' part of `<a href=""></a>` or the 'src' part of `<img src="">`.
+* __Nested tags__: the way that we put one html tag inside the other to build up the structure of the page into sections.
+* __The DOM__: the document object model - the way the the way your code and the browser interact.
+* __Html tag__: the wrapper for the whole page.
+* __Head tag__: information that the browser needs to display the website properly.
+* __Body tag__: the content that is drawn to the DOM for the user.
+* __Div tag__: a way to divide things on the page. These stack on top of each other by default.
+* __Span tag__: a way to divide things on the page. These flow within the content on the page. 
+* __Semantic tags__: we should try to use tag names to describe things so that the code is more human readable, and other technologies have an easier time interacting with your page in a meaningful way.  ke `<p>I'm a paragraph</p>` or a self-closing tag such as `<img src="..." >`
+* __Nesting__: When you stuff HTML elements inside of other elements, that's called nesting. This is a common practice and in some occasions it's required such as in `<ul>` tags and `<form>` tags. Make sure to indent your code as you nest to make debugging.
+
