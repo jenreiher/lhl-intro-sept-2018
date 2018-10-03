@@ -31,3 +31,34 @@
 * __Semantic tags__: we should try to use tag names to describe things so that the code is more human readable, and other technologies have an easier time interacting with your page in a meaningful way.  ke `<p>I'm a paragraph</p>` or a self-closing tag such as `<img src="..." >`
 * __Nesting__: When you stuff HTML elements inside of other elements, that's called nesting. This is a common practice and in some occasions it's required such as in `<ul>` tags and `<form>` tags. Make sure to indent your code as you nest to make debugging.
 
+## W2D1
+* __CSS__: Cascading style sheets, or the style language of the web.
+* __Selector__: the html element(s)/tag(s) that are being targeted and styled with the CSS language, elements can be selected by their tag name, class and or id as well as several other pseudo-selectors (<--more advanced css). IE:
+```
+  <h1 class="titles" id="main-title">Hello World</h1>
+ /*selecting by tag name*/ 
+ h1 {
+   ...
+  }
+  /*selecting by class*/
+  .titles {
+   ...
+  }
+  /*selecting by id*/
+  #main-title {
+   ...
+  }
+```
+* __Property__: the styling rules that can be applied to a selector. IE: border, background color, text color etc.
+* __Property Value__: the different values that a CSS Property may have. IE:
+```
+  /*property: value*/
+  background-color: red;
+  background-color: blue;
+```
+* __Box model__: The way that css thinks about each element on the page. [see this link for the perfect metaphor for the box model!](https://medium.freecodecamp.org/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1?gi=8dfe07df3608)
+* __Padding__: The space within an element.
+* __Margin__: The space betweeen an element and other things.
+* __Stylesheet__: A collection of css that we can add to the `head` section of our page to apply the style rules within it.
+* __Class tag__: A way of linking a style rule to a piece of html.
+* __Id tag__: A unique way of linking a style rule to a piece of html. Useful to make sure that you aren't accidentally applying the same rule where you didn't intend to.
