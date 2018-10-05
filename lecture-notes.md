@@ -13,3 +13,7 @@
 * [Lecture](https://youtu.be/v6jZ4YoxDFE)
 * [Polly want some css?](https://codepen.io/jenreiher/pen/MPKeeq?editors=1100)
 * [Star Wars specificity](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
+
+# W3D2
+* [Slides](https://docs.google.com/presentation/d/1nX2bofw_sdQLYpju1OuVz7yHvxdfAM8fjsNdJ46a0-M/edit?usp=sharing)
+* [Lecture](https://youtu.be/fwEgAfsofe8)
