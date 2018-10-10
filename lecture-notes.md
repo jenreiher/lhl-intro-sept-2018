@@ -14,6 +14,12 @@
 * [Polly want some css?](https://codepen.io/jenreiher/pen/MPKeeq?editors=1100)
 * [Star Wars specificity](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
 
-# W3D2
+# W2D2
 * [Slides](https://docs.google.com/presentation/d/1nX2bofw_sdQLYpju1OuVz7yHvxdfAM8fjsNdJ46a0-M/edit?usp=sharing)
 * [Lecture](https://youtu.be/fwEgAfsofe8)
+
+# W3D1
+* [Slides](https://docs.google.com/presentation/d/14--8PbNhjqmSnqH4vvpaCkj_ueHxfcctBwfeUTOphXY/edit?usp=sharing)
+* [Lecture](https://youtu.be/mITo6PHCBZ4)
+* [Some very ruby ways to solve Fizzbuzz](http://rubyquiz.com/quiz126.html)
+* [Some other Ruby fizz buzz solutions](https://rosettacode.org/wiki/FizzBuzz#Ruby)
