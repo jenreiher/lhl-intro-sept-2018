@@ -82,3 +82,13 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __Returning__: The name for the end result of what a method "spits out" at the end when it finishes evaluating. Ruby is a bit different than other languages in that the last line of code that runs in a method is the result that the method returns.
 * __Hash__: A fancy way to hold data in Ruby so that you can return it later. They are stored in "key value pairs", where the key (that you as a developer can predict) will be on the left, and the value (that may be entered by the user) is stored on the right. This lets us access data from our app in an easy way. Think of it like super organization for your data. 
 * __Array__: A list of things - it could be a list of strings, a list of numbers, a list of hashes or even a list of lists (an array of arrays)! You access this by referring it's position in the list, which in programming will ALWAYS start at 0. 
+
+## W3D1
+* __ERB__: Embedded Ruby - the way we connect our ruby code to our html to display templates.
+* __<%= yield %>__: A special variable that will load in an erb file with "subcontent" into our base html page.
+* __Instance variable__: A way to let a variable's data be "seen" by the erb template by adding an `@` symbol in front of the variable name.
+* __Alligator tags__: the symbols we wrap our ruby code in within our html so it knows where the html stops and the ruby starts (and vice versa!). For ruby logic, it looks like this: `<% rubycode %>`, and for an individual piece of data we want to show on the page we use `<%= data %>`
+* __DRY__: Don't repeat yourself! One of the many reminders to ourselves not to re-type things if we don't have to, because we are ~~lazy~~ efficient.
+* __View__: The shorthand term for our ERB file. It means "the thing the user _views_".
+* __Actions__: Our list of things to "do" when a certain view is accessed, located in our actions.rb file and broken up into different `get '/something' do ... some code ... end` blocks
+* __Iterators__: What we call a method that loops over a set of data in some way so we can DO something with it in our 'do block'
