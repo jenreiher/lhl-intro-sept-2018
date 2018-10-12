@@ -92,3 +92,16 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __View__: The shorthand term for our ERB file. It means "the thing the user _views_".
 * __Actions__: Our list of things to "do" when a certain view is accessed, located in our actions.rb file and broken up into different `get '/something' do ... some code ... end` blocks
 * __Iterators__: What we call a method that loops over a set of data in some way so we can DO something with it in our 'do block'
+
+## W3D2
+* __Database__: A way of storing our data in a way that persists.
+* __Persistence__: The idea that data will last beyond the user's time on the page - it's not just stored in the browser, it gets saved in a database for use later.
+* __Relational Database__: A way of joining different data sets (called tables) together. 
+* __ERD__: Entity relationship diagram - a standard way to visualize the way your database is set up.
+* __Primary key__: a unique row in your database.
+* __Foreign key__: The way to reference another table in a relational database.
+* __One to Many__: One of the types of relations in a relational database.
+* __Many to Many__: Another of the types of relations in a relational database.
+* __CRUD__: stands for "create", "read", "update" and "delete", the things that you can do when you interface with a database.
+* __ORM__: Object Relational Mapper - a way of translating between a coding language and database languages.
+* __Active Record__: The language we will use as our ORM that lets Ruby talk to SQL.
