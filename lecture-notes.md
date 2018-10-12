@@ -23,3 +23,10 @@
 * [Lecture](https://youtu.be/mITo6PHCBZ4)
 * [Some very ruby ways to solve Fizzbuzz](http://rubyquiz.com/quiz126.html)
 * [Some other Ruby fizz buzz solutions](https://rosettacode.org/wiki/FizzBuzz#Ruby)
+
+# W3D2
+* [Slides](https://docs.google.com/presentation/d/1h1zb-qvD9OE5SK0UkWYJh5rduMbnkOYR2C2MEBLi9Hc/edit?usp=sharing)
+* [Lecture](https://youtu.be/OCcjsx-ZOv8)
+* [Active Record Queries](http://guides.rubyonrails.org/active_record_querying.html#retrieving-objects-from-the-database)
+* [Intro to Active Record](http://guides.rubyonrails.org/active_record_basics.html)
+* [Online database visualization tool](https://sqliteonline.com)
