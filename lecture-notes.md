@@ -30,3 +30,9 @@
 * [Active Record Queries](http://guides.rubyonrails.org/active_record_querying.html#retrieving-objects-from-the-database)
 * [Intro to Active Record](http://guides.rubyonrails.org/active_record_basics.html)
 * [Online database visualization tool](https://sqliteonline.com)
+
+# W4D1
+* [Slides](https://docs.google.com/presentation/d/1ZXuQF_AQ0TnDfXHBRbknZ4k3vHzyJrB0d4zwV09kwGs/edit?usp=sharing)
+* [Lecture](https://youtu.be/f032Km-KVfQ)
+* [The Active Record documentation](https://api.rubyonrails.org/files/activerecord/README_rdoc.html)
+* [The "core" class functionality for Active Record](https://github.com/rails/rails/blob/master/activerecord/lib/active_record/core.rb)
