@@ -105,3 +105,46 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __CRUD__: stands for "create", "read", "update" and "delete", the things that you can do when you interface with a database.
 * __ORM__: Object Relational Mapper - a way of translating between a coding language and database languages.
 * __Active Record__: The language we will use as our ORM that lets Ruby talk to SQL.
+
+## W4D1
+* __Object Orientated Programming (OOP)__: A style of programming which abstract budles of codes in things called 'objects'. The 'object' defines a particular set of behaviours and properties. It is commonly used in programming video games. Ruby is an OOP language!
+* __Class__: One of the main building blocks to an OOP language. A class can be thought of as a blueprint. You use a class to create Objects just like you would use a blueprint or schematic to build a house or similar. 
+* __Instance/Instantiation__ : An instance can be thought of as single Object derived from a class. Instantiation is the verb we use to describe that process.
+```
+ #in raw ruby instantiation looks like this:
+  house = House.new
+ #House would be the class, calling the .new method would be the instantiation,
+ #and house would then be the 'instance' or 'object' of the House class
+```
+* __Object__: In ruby an Object is generally an instance of a Class (although not always) which contains its own methods and properties. Methods and Properties can generally be grabbed by dot notation  ie 
+```
+  my_object.some_method
+  my_object.some_property
+```
+* __Inheritance__: This can be a complicated subject, but overall inheritance is the description of the relationships that are possible between classes. In ruby a common inheritance pattern is to *extend* a class. This essentially allows a 'child' class to inherit special powers from a 'parent' class.
+```
+#the syntax looks like this
+class child_class < parent_class
+```
+* __Instance Methods__: We've heard of this term a few times while programming in the Sinatra Framework. This is actually something that is apart of Raw Ruby. An instance method are the methods that are written inside a class and can only be
+accessed on the instance of a class, not the class itself. (the opposite is called "class/static methods" google it)
+```
+  class House
+    #some code here...
+    #not necessary to show for this example
+    #adding in an instance method
+    def build
+      "house built that is #{@width} wide and #{@height} tall!"
+    end
+  end
+  
+  #to use we first "instantiate" the class
+  my_house = House.new(50, 100)
+  #my_house is now considered an "instance" of House (its also now an Object)
+  #we can now call instance methods from the house Object my_house
+  my_house.build => "house built that is 50 wide and 100 tall"
+```
+#making an instance method is just like making any regular method but inside a class block
+* __Active Record Relationship__: the two main relationships that we will use is "has_many" and "belongs_to". The lovely thing about AR is that it's pretty sensical what these two relationships mean. The main points are: 
+  * has_many and belongs_to describe the relationship between two models and respectively their sql database relationship
+  * adding has_many and belongs_to provides special methods to our models which makes querying and performing CRUD much much easier!! <(^.^<)
