@@ -36,3 +36,23 @@
 * [Lecture](https://youtu.be/f032Km-KVfQ)
 * [The Active Record documentation](https://api.rubyonrails.org/files/activerecord/README_rdoc.html)
 * [The "core" class functionality for Active Record](https://github.com/rails/rails/blob/master/activerecord/lib/active_record/core.rb)
+
+# W4D2
+* [Slides](https://docs.google.com/presentation/d/1wvdZtTrzLS7pFDPByo8DjXNE2fTUe-HrOBbhRxk1FZY/edit)
+* [Video](https://youtu.be/7keyCg82c7I)
+
+# W5D1
+* [Slides](https://docs.google.com/presentation/d/1aIxpsQeC0utLK_ZKUos1FgLLGz8RHTQmT0Eq0UrRt8I/edit?usp=sharing)
+* [Video](https://youtu.be/wLAHzMD9hWM)
+
+# W5D2
+* [Slides](https://docs.google.com/presentation/d/1A2pl6X6CEAa_4E6oUHuvqQ30ZykcmAUZKmjWFooryqA/edit#slide=id.g16ac1d1504_2_0)
+* [Video](https://youtu.be/_DLniD3EUyA)
+
+# W6D1
+* [Slides]()
+* [Video]()
+
+# W6D2
+* [Slides]()
+* [Video]()
