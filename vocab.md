@@ -148,3 +148,27 @@ accessed on the instance of a class, not the class itself. (the opposite is call
 * __Active Record Relationship__: the two main relationships that we will use is "has_many" and "belongs_to". The lovely thing about AR is that it's pretty sensical what these two relationships mean. The main points are: 
   * has_many and belongs_to describe the relationship between two models and respectively their sql database relationship
   * adding has_many and belongs_to provides special methods to our models which makes querying and performing CRUD much much easier!! <(^.^<)
+
+## W4D2
+* _form_: The html structure we use to collect input from users.
+* _method_: An attribute of an html form that tells your back end what to do with the data received.
+* _GET_: One of the two most common types of form methods. This lets you request (get) data from the database without making any changes to it.
+* _POST_: One of the other two most common types of form methods. This lets up create, update or delete data from the database. 
+* _action_: An attribute of an html form that tells your back end which "do" block to look for. This works in combination with the method attribute. For example, you might have `get '/user' do` and `post '/user' do` - one to read the user data, and one to write the user data. The `'/user'` part is the action in this example.
+* _route_: The different `get '/something' do` and `post /something do` blocks are often also referred to as "routes". 
+* _validation_: The code that we write to validate the user input. In Sinatra and Rails these take the form of both validations in our models files, as well as other validations within our routes in the actions.rb file - the key being we want to catch this before the user finishes interacting with the site, and before the data gets into our database, as it could be "messy" or just plain malicious!
+
+## W5D1
+* __Session__: A unique, secret identifier that allows the browser to know about a user in between pages as long as that user is logged in.
+* __Cookie__: The browser's data that it stores about the user.
+* __Helpers__: Sinatra's word for Ruby methods that any view can access (for security and confusion reasons we don't usually do that!) 
+
+## W5D2
+* __Routes__: The list of urls that define the actions our users can take on our website to interact with our app. In Sinatra these always start with 
+```
+  get '/[optional parameter]' do 
+   [the code for this route goes here] 
+  end
+```
+* __REST__: The naming convention for our routes. 
+* __Partial__: A way to include one set of html with different data in multiple other erb files.
