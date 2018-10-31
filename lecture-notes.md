@@ -50,8 +50,11 @@
 * [Video](https://youtu.be/_DLniD3EUyA)
 
 # W6D1
-* [Slides]()
-* [Video]()
+* [Slides](https://docs.google.com/presentation/d/1N3dnCOPDEQnlYVy5iC-jfrBB4Jow2qjGUI8h0jxK_0A/edit?usp=sharing)
+* [Video](https://youtu.be/UhVdb0VQ3hE)
+* [HTTP Cats](https://http.cat/)
+* [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+* [Meta Viewport tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
 
 # W6D2
 * [Slides]()
