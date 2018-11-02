@@ -57,5 +57,8 @@
 * [Meta Viewport tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
 
 # W6D2
-* [Slides]()
-* [Video]()
+* [Slides](https://docs.google.com/presentation/d/1hpvqff82cSUJuxtQ_C_FVfB1aVia86O3HojxRx2OH-I/edit?usp=sharing)
+* [Video](https://youtu.be/MF1wAqftFqs)
+* [Patrick's Javascript](https://codepen.io/jenreiher/pen/QJLGLw?editors=1010)
+* [Heroku Instructions](https://github.com/MaggieMoss/sinatra-deployment-guide)
+* [Heroku Video](https://youtu.be/ppSAlLCwezA)
