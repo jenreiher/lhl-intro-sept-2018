@@ -62,3 +62,4 @@
 * [Patrick's Javascript](https://codepen.io/jenreiher/pen/QJLGLw?editors=1010)
 * [Heroku Instructions](https://github.com/MaggieMoss/sinatra-deployment-guide)
 * [Heroku Video](https://youtu.be/ppSAlLCwezA)
+* [Css Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
